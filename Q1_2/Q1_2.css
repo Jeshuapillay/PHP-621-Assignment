@@ -1,0 +1,23 @@
+body {
+ background: linear-gradient(to right, rgb(117, 14, 148), rgb(180, 6, 78));
+}
+
+h1 {
+ margin-left: 520px;
+ margin-top: 60px;
+ text-decoration: underline;
+ font-size: 40px;
+ font-family: calibri;
+}
+
+
+table, td {
+ width: 270px;
+ border: 2px solid black;
+ border-collapse: collapse;
+ padding: 5px;
+ text-align: center;
+ font-family: calibri;
+ margin-left: 480px;
+ margin-top: 90px;
+}
